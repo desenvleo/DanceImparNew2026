@@ -867,47 +867,59 @@ aside {
     border-radius: 10px;
 }
 
+.salao,
+.hiphop,
+.salsa,
+.heels,
+.tango,
+.forro,
+.jazz,
+.kpop {
+    min-height: 250px;
+    min-width: 300px;
+}
+
 .salao {
     min-height: 300px;
-    background-image: url(../imagensimpar/salaoimparrrr.jpg);
+    background-image: url(./imagensimpar/salaoimparrrr.jpg);
     background-size: cover;
 }
 
 
 .hiphop {
-    background-image: url(../imagensimpar/hiphopimpar.jpg);
+    background-image: url(./imagensimpar/hiphopimpar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .salsa {
-    background-image: url(../imagensimpar/salsaimpar.jpg);
+    background-image: url(./imagensimpar/salsaimpar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .heels {
-    background-image: url(../imagensimpar/stilettoimpar.jpg);
+    background-image: url(./imagensimpar/stilettoimpar.jpg);
     background-size: cover;
 }
 
 .tango {
-    background-image: url(../imagensimpar/tangoimpar.jpg);
+    background-image: url(./imagensimpar/tangoimpar.jpg);
     background-size: cover;
 }
 
 .forro {
-    background-image: url(../imagensimpar/forroimpar.jpg);
+    background-image: url(./imagensimpar/forroimpar.jpg);
     background-size: cover;
 }
 
 .jazz {
-    background-image: url(../imagensimpar/jazzimpar.jpg);
+    background-image: url(./imagensimpar/jazzimpar.jpg);
     background-size: cover;
 }
 
 .kpop {
-    background-image: url(../imagensimpar/kpopimpar.jpg);
+    background-image: url(./imagensimpar/kpopimpar.jpg);
     background-size: cover;
 }
 
