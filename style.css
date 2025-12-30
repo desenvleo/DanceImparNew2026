@@ -875,12 +875,12 @@ aside {
 .forro,
 .jazz,
 .kpop {
-    min-height: 300px;
-    min-width: 180px;
+    height: 300px;
+    width: 180px;
 }
 
 .salao {
-    min-height: 300px;
+
     background-image: url(./imagensimpar/salaoimparrrr.jpg);
     background-size: cover;
 }
